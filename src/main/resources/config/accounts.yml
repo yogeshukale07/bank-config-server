@@ -1,0 +1,11 @@
+build:
+  version: 3.0
+
+accounts:
+  message: "Welcome to UK bank"
+  contactDetails:
+    name: "Yogesh Ukale"
+    email: "john@easybank.com"
+  onCallSupport:
+    - (555) 123456
+    - (555) 321456

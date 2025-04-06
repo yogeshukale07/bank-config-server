@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+accounts:
+  message: "Welcome to Production UK bank"
+  contactDetails:
+    name: "Yogesh Ukale"
+    email: "john@prod.com"
+  onCallSupport:
+    - (555) 123456
+    - (555) 321456

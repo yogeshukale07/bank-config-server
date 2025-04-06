@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to LocalHost Card Support"
+  contactDetails:
+    name: "Yogesh Ukale"
+    email: "yogesh@easybankCardsupport.com"
+  onCallSupport:
+    - (555) 123456
+    - (555) 321456

@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+
+loans:
+  message: "Welcome to QA UK bank"
+  contactDetails:
+    name: "Yogesh Ukale"
+    email: "john@QA.com"
+  onCallSupport:
+    - (555) 123456
+    - (555) 321456

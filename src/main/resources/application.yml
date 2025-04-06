@@ -1,0 +1,14 @@
+spring:
+  application:
+    name: "configserver"
+
+  profiles:
+    active: git
+  cloud:
+    config:
+      server:
+        native:
+          #search-locations: "classpath:/config"
+          search-locations: "F:\\Workspace\\Yogesh\\microservices\\configserver\\src\\main\\resources\\config"
+server:
+  port: 8071

@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Welcome to QA Card Support"
+  contactDetails:
+    name: "Yogesh Ukale"
+    email: "yogesh@easybankQAsupport.com"
+  onCallSupport:
+    - (555) 123456
+    - (555) 321456

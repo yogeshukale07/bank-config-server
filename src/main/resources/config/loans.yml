@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Local UK bank"
+  contactDetails:
+    name: "Yogesh Ukale"
+    email: "yogesh@easybankloansupport.com"
+  onCallSupport:
+    - (555) 123456
+    - (555) 321456
